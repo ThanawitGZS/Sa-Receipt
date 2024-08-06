@@ -10,3 +10,5 @@ SA Project Resturant Shabu
 - $ go get -u gorm.io/driver/sqlite
 - $ go get -u github.com/dgrijalva/jwt-go
 - $ go get -u golang.org/x/crypto@v0.16.0
+
+# Test
